@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Darua.Paginas.Opcao2"
+             Title="ESTRADAS">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="Azure">
+            <Label Text=" PAGINA DA ESTRADA !" 
+                   FontSize="Large"
+                   TextColor="ForestGreen"
+                   HorizontalTextAlignment="Center"
+                   />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
